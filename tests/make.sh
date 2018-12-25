@@ -1,2 +1,2 @@
 #!/bin/sh
-clang++ main.cpp -g -std=c++14 -lconsole_script -o app
+g++ main.cpp -g -std=c++14 -L.. -lconsole_script -o app

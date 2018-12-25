@@ -1,5 +1,7 @@
 # Makefile for console script
 
+include platform.mk
+
 TARGET = console_script
 STATIC_LIB = lib$(TARGET)$(STATIC_LIB_EXT)
 SHARED_LIB = lib$(TARGET)$(SHARED_LIB_EXT)

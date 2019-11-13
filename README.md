@@ -124,6 +124,8 @@ Possible options:
 The simpliest program:
 ```C++
 #include <iostream>
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_shield)
+
 #include <string>
 #include "script.h"
 
@@ -145,3 +147,7 @@ License
 [zlib/libpng](https://opensource.org/licenses/zlib-license.php)
 
 Copyright (c) 2014-2018 Sviridov Vladimir
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_large)

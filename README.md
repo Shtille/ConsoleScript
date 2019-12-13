@@ -1,6 +1,8 @@
 Console Script
 ======
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_shield)
+
 Parses and evaluates single line expressions.
 
 `Console Script` is a library written in C++. Originally was made to simply add console input into games.
@@ -124,8 +126,6 @@ Possible options:
 The simpliest program:
 ```C++
 #include <iostream>
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_shield)
-
 #include <string>
 #include "script.h"
 
@@ -144,10 +144,8 @@ For more details of usage take a look into `tests/main.cpp` and the library head
 License
 -------
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_large)
+
 [zlib/libpng](https://opensource.org/licenses/zlib-license.php)
 
 Copyright (c) 2014-2018 Sviridov Vladimir
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShtille%2FConsoleScript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShtille%2FConsoleScript?ref=badge_large)
